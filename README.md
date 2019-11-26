@@ -1,4 +1,4 @@
-# EIP4-WEEEK2
+
 # EIP4-WEEEK2
 1.
 Train on 60000 samples, validate on 10000 samples
